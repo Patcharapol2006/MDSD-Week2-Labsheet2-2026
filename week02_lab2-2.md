@@ -386,6 +386,7 @@ class HomePage extends StatelessWidget {
 ```
 
 **ขั้นตอนที่ 2** รันแอปด้วยคำสั่ง:
+<img width="1293" height="971" alt="image" src="https://github.com/user-attachments/assets/cab9c78d-9757-4a36-a766-eb71ab3e8b6e" />
 
 ```bash
 flutter run
